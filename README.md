@@ -16,6 +16,8 @@ Goal: Understand common themes in customer reviews and provide actionable insigh
 Insight: Identify recurring positive and negative feedback to guide product and service improvements.
 
 **Tools Used:-**
-
+MS SQL Server - used for data storage and data cleaning, combining for data consistency and accuracy.
+Python - used to fecth data from SQL DB with Pyobdc module and used vader sentiment analysis from NLTK module to analyze text data ( customer review ).
+Power BI and MS Powerpoint - used to developed detailed interactive dashboard and storytelling.
 
 

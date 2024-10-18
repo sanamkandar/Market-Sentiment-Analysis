@@ -1,6 +1,10 @@
 # Market-Sentimental-Analysis
 Data Analysts Portfolio Project - Sentiment Analytics
 
+![image](https://github.com/user-attachments/assets/227e7509-258a-48f4-a1f1-0b100306c7c4)
+
+![AthLetic Marketing Dashboard](https://github.com/user-attachments/assets/15d64085-0bd5-4095-b563-a7fa4c8891c8)
+
 **Introduction to Business Problem**: 
 
 AthLetic, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They are reaching out to you to help conduct a detailed analysis and identify areas for improvement in their marketing strategies.

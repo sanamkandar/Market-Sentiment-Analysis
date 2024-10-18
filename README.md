@@ -33,4 +33,6 @@ Insight: Identify recurring positive and negative feedback to guide product and 
 
 **Power BI and MS Powerpoint** - used to developed detailed interactive dashboard and storytelling.
 
+![image](https://github.com/user-attachments/assets/ec37c6b1-eebf-4a69-aa79-ad004a11221a)
+
 
